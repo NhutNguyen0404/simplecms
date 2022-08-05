@@ -6,6 +6,12 @@ return [
         'admin' => 'admin'
     ],
 
+    'admin' => [
+        'sidebar' => [
+            ''
+        ]
+    ],
+
     //user setting
     'user' => [
         'roles' => [
